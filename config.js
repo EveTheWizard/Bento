@@ -170,15 +170,15 @@ const CONFIG = {
 				},
 				{
 					name: '',
-					link: 'https://www..com',
+					link: '',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: '',
+					link: '',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: '',
+					link: '',
 				},
 			],
 		},
