@@ -61,13 +61,13 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://east-2fa.exch092.serverdata.net/owa/#path=/mail',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'SoundCloud',
+			icon: 'music',
+			link: 'https://soundcloud.com/',
 		},
 		{
 			id: '4',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com',
 		},
 	],
 
@@ -140,15 +140,15 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Cyberpunk',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'hhttps://www.youtube.com/watch?v=wcOhAodaW5Y&list=PLcx8DGkalsx4JPyF7VmDIOg1rzLR-suB4',
 				},
 				{
 					name: 'Lofi',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.youtube.com/watch?v=H14K9mJcmYE&list=PLqsosLXHQI-LxuL-L3P8Bfw88EV5DQjDb',
 				},
 				{
 					name: 'Pixel',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.youtube.com/results?search_query=pixel+music',
 				},
 				{
 					name: 'Chill Mood - YT',
